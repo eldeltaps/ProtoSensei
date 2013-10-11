@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/home_button_shape_clicked"/>
+	
+	<item android:drawable="@drawable/home_button_indicator_clicked"
+	      android:top="110dp"/>
+
+</layer-list>

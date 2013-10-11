@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="blanco">#ffffffff</color>
+    <color name="red_corporative">#ffcf142b</color>
+    <color name="red_corporative_trans">#80cf142b</color>
+    <color name="background">#ffefefef</color>
+    <color name="background_drawer">#ffd8d8d8</color>
+    <color name="home_button_default">#ffeaeaea</color>     
+    <color name="home_button_focus">#fffde1e1</color>
+    <color name="home_button_pressed">#fffde1e1</color>
+    <color name="item_galeria_default">#80666666</color>
+
+</resources>

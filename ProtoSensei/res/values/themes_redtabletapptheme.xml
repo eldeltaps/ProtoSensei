@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	<style name="RedtabletAppTheme" parent="android:Theme.Holo.Light">
+
+    <item name="android:editTextStyle">@style/EditTextRedtabletAppTheme</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewRedtabletAppTheme</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxRedtabletAppTheme</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonRedtabletAppTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonRedtabletAppTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonRedtabletAppTheme</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerRedtabletAppTheme</item>
+
+    <!--  <item name="android:dropDownSpinnerStyle">@style/SpinnerRedtabletAppTheme.DropDown</item> -->
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemRedtabletAppTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarRedtabletAppTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarRedtabletAppTheme</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarRedtabletAppTheme</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigRedtabletAppTheme</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallRedtabletAppTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleRedtabletAppTheme</item>
+
+    <item name="android:listViewStyle">@style/ListViewRedtabletAppTheme</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewRedtabletAppTheme.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemRedtabletAppTheme</item>
+
+  </style>
+
+</resources>

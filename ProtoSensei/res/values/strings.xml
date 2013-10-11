@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proto Sensei</string>
+    <string name="configuracion_red">Configuración del sevidor</string>
+    <string name="configuracion_servidor">Servidor</string>
+    <string name="configuracion_servidor_sum">Servidor</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Menú Abierto</string>
+    <string name="drawer_close">Menú Cerrado</string>
+    <string name="hintSearch">búsqueda por palabras</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnMotor">motor</string>
+    <string name="btnInmo">inmobiliaria</string>
+    <string name="btnEmpleo">empleo</string>
+    <string name="btnLibros">formación y libros</string>
+    <string name="btnServicios">servicios</string>
+    <string name="btnNegocios">negocios</string>
+    <string name="btnInformatica">informática</string>
+    <string name="btnSonido">imagen y sonido</string>
+    <string name="btnTelefonia">telefonía</string>
+    <string name="btnJuegos">juegos</string>
+    <string name="btnHogar">hogar</string>
+    <string name="btnModa">moda</string>
+    <string name="btnContactos">contactos</string>
+    <string name="btnOcio">ocio</string>
+    <string name="btnDeportes">deportes</string>
+    <string name="btnMascotas">mascotas</string>
+    <string name="imagen_articulo">Imagen para articulos sin imagen</string>
+	<string name="precio">Precio</string>
+	<string name="nombre">Nombre articulo</string>
+	<string name="no_resultados">No se han encontrado artículos</string>
+	<string name="des_imagen_no_resultados">Imagen no se han encontrado artículos</string>
+	<string name="boton_no_resultados">nueva búsqueda</string>
+	<string name="txtCategoria">categoría</string>
+	<string name="txtPrecioDesde">precio desde</string>
+	<string name="txtPrecioHasta">precio hasta</string>
+	
+</resources>

@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/item_vista_lista"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/imagenLista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/no_imagen_small"
+        android:contentDescription="@string/imagen_articulo" />
+
+    <TextView
+        android:id="@+id/precio_articulo_lista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imagenLista"
+        android:layout_alignLeft="@+id/nombre_articulo_lista"
+        android:layout_marginBottom="14dp"
+        android:text="@string/precio"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/nombre_articulo_lista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/precio_articulo_lista"
+        android:layout_marginLeft="21dp"
+        android:layout_toRightOf="@+id/imagenLista"
+        android:ellipsize="end"
+        android:lines="1"
+        android:text="@string/nombre"
+        android:textSize="16sp" />
+	
+</RelativeLayout>

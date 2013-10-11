@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>todas las categorias</item>
+        <item>MOTOR</item>
+        <item>coches de segunda mano</item>
+        <item>motos de segunda mano</item>
+        <item>vehículos industriales</item>
+        <item>IMNOBILIARIA</item>
+        <item>pisos</item>
+        <item>chalets</item>
+        <item>áticos</item>
+        <item>lofts</item>
+        <item>apartamentos</item>
+        <item>estudios</item>
+        <item>locales comerciales</item>
+        <item>oficinas</item>
+    </string-array>
+    <string-array name="precio_inmobiliaria">
+        <item>indiferente</item>
+        <item>0</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>60000</item>
+        <item>70000</item>
+        <item>80000</item>
+        <item>90000</item>
+        <item>100000</item>
+        <item>120000</item>
+        <item>140000</item>
+        <item>160000</item>
+        <item>180000</item>
+        <item>200000</item>
+        <item>220000</item>
+        <item>240000</item>
+        <item>260000</item>
+        <item>280000</item>
+        <item>300000</item>
+        <item>320000</item>
+        <item>340000</item>
+        <item>360000</item>
+        <item>380000</item>
+        <item>400000</item>
+        <item>450000</item>
+        <item>500000</item>
+        <item>600000</item>
+        <item>700000</item>
+        <item>800000</item>
+        <item>900000</item>
+    </string-array>
+    <string-array name="precio_motor">
+        <item>indiferente</item>
+        <item>0</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>12000</item>
+        <item>13000</item>
+        <item>14000</item>
+        <item>15000</item>
+        <item>16000</item>
+        <item>17000</item>
+        <item>18000</item>
+        <item>19000</item>
+        <item>20000</item>
+        <item>21000</item>
+        <item>22000</item>
+        <item>23000</item>
+        <item>24000</item>
+        <item>25000</item>
+        <item>26000</item>
+        <item>27000</item>
+        <item>28000</item>
+        <item>29000</item>
+        <item>30000</item>
+        <item>35000</item>
+        <item>40000</item>
+   	</string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="protosensei_configuracion" >
+    <PreferenceCategory 
+        android:title="@string/configuracion_red" >
+    
+        <EditTextPreference 
+	        android:key="servidor"
+	        android:title="@string/configuracion_servidor"
+	        android:summary="@string/configuracion_servidor_sum"
+	    	android:defaultValue="10.0.2.2"
+	    />
+            
+        
+    </PreferenceCategory>
+
+</PreferenceScreen>
